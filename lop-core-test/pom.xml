@@ -10,7 +10,7 @@
 		<artifactId>lop-parent</artifactId>
 		<version>1.0.0.SNAPSHOT</version>
 	</parent>
-	<name>Lop :: Core :: Test :: ${project.version}</name>
+	<name>Lop :: Core :: Test</name>
 
 	<dependencies>
 		<!-- Lop Core. -->
